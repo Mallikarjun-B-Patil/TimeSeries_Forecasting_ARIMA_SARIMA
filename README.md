@@ -1,4 +1,3 @@
-"# TimeSeries_Forecasting_ARIMA_SARIMA" 
 # 📊 Time Series Forecasting with ARIMA & SARIMA  
 
 ## 📌 Project Overview  
@@ -43,3 +42,9 @@ This project focuses on **Time Series Forecasting** using **ARIMA** and **SARIMA
 
 ## 🏆 Conclusion  
 This project highlights the power of **time series forecasting** in diverse domains. Predicting trends with ARIMA/SARIMA helps in making informed decisions across industries.  
+
+## 📌 How to Run
+Clone the repository:
+   ```bash
+   git clone https://github.com/Mallikarjun-B-Patil/TimeSeries_Forecasting_ARIMA_SARIMA.git
+   ```
